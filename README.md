@@ -35,17 +35,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledazizzaki&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KhaledAzizZaki&theme=shadow_green&hide_border=true" />
 </p>
-   
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledazizzaki&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KhaledAzizZaki&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false" />
     </td>
-     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=khaledazizzaki&show_icons=true&theme=radical" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAzizZaki&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
@@ -56,6 +55,3 @@
 ### ⚡ Fun Fact
 
 > I love building real-world projects with the MERN stack and I'm always up for learning something new!
-
-
-
