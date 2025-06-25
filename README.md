@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://your-image-url.com/banner.png](https://github.com/KhaledAzizZaki/KhaledAzizZaki/blob/main/freepik-ai-artificial-inteligence-linkedin-profile-cover-4029809-20250625074346oZTi.png)" alt="Khaled Aziz Zaki Banner" />
+</p>
+
 <h1 align="center">Hi there, I'm Khaled Aziz Zaki <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 
 <p align="center">
