@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledazizzaki&layout=compact&theme=radical" />
@@ -45,9 +45,9 @@
 </table>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledazizzaki&label=Profile%20views&color=0e75b6&style=flat" alt="khaledazizzaki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khaledazizzaki&label=Profile%20views&color=0e75b6&style=flat" alt="khaledazizzaki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledazizzaki" alt="khaledazizzaki" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledazizzaki" alt="khaledazizzaki" /></a> </p>
 
 
 ---
