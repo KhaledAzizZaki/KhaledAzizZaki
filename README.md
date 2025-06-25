@@ -5,9 +5,16 @@
 <h1 align="center">Hi there, I'm Khaled Aziz Zaki <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 
 <p align="center">
-  A passionate Full Stack Web Developer from Bangladesh 🇧🇩
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78C&center=true&vCenter=true&width=700&lines=A+passionate+Full+Stack+Web+Developer+from+Bangladesh" alt="Typing SVG" />
+  </a>
 </p>
 
+<p>I specialize in building modern, responsive, and scalable web applications using the MERN stack (MongoDB, Express, React, Node.js). I enjoy solving real-world problems through clean code and intuitive UI/UX design.
+
+Currently, I'm expanding my skills in backend architecture and cloud deployment, and I love contributing to open-source projects whenever I can.
+
+🚀 Let's build something amazing together!</p>
 ---
 
 <h3 align="left">Connect with me:</h3>
