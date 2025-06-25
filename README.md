@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/v4d9vBND/freepik-ai-artificial-inteligence-linkedin-profile-cover-4029809-20250625074346o-ZTi.png" alt="Khaled Aziz Zaki Banner" />
+  <img src="https://i.ibb.co/XxJvR8Zs/freepik-ai-artificial-inteligence-linkedin-profile-cover-4029809-20250625075958-L3-Zw.png" alt="Khaled Aziz Zaki Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Khaled Aziz Zaki <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
