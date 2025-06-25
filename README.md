@@ -30,13 +30,15 @@
 
 ### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledazizzaki&theme=radical" />
+</p>
+   
+
 <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledazizzaki&layout=compact&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledazizzaki&theme=radical" />
     </td>
      <td>
       <img src="https://github-readme-stats.vercel.app/api?username=khaledazizzaki&show_icons=true&theme=radical" />
